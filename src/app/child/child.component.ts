@@ -8,6 +8,7 @@ import {Component, Input, OnInit} from '@angular/core';
 export class ChildComponent implements OnInit {
 
   @Input() receiveFromParrent: string;
+  @Input() receiveNumber: number;
 
   constructor() { }
 
