@@ -1,27 +1,22 @@
-# ShareParrentToChild
+## Workshop Codding Angular by มาสเตอร์ อึ่ง
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+![beafdd2b6a765151a7974468150d2251.png](https://www.img.in.th/images/beafdd2b6a765151a7974468150d2251.png)
 
-## Development server
+## ต้องการรายละเอียดเพิ่ม หรือ ต้องการ ปรึกษาการทำ โปรเจคแอนดรอยด์
+### ติดต่อมาสเตอร์ อึ่ง เลย ที่
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![2e15a4f2dee70374da556a9e5cd0d20f.jpg](https://www.img.in.th/images/2e15a4f2dee70374da556a9e5cd0d20f.jpg)
 
-## Code scaffolding
+https://www.facebook.com/android.Training.by.EWTC
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+http://line.me/ti/p/XI-Ksj7Jzq
 
-## Build
+![318b920ba9823899b267ad6ad90505f9.jpg](https://www.img.in.th/images/318b920ba9823899b267ad6ad90505f9.jpg)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+http://androidthai.in.th
 
-## Running unit tests
+http://swiftcodingthai.com    
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+phrombutr@gmail.com
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Mobile 0818595309
