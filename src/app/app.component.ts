@@ -13,6 +13,12 @@ export class AppComponent {
   nameChildString = 'Child Component';
   numberInt = 0;
 
+  numberFromChidInt = 0;
+
+  onChangeNumberByChild(numberChange) {
+    this.numberFromChidInt = numberChange;
+  }
+
   onClickCount() {
     this.numberInt = this.numberInt + 1;
   }

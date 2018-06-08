@@ -1,10 +1,16 @@
 <!--Add Component-->
 <h4>This is {{nameParrentString}}</h4>
 <p>Show Number From {{nameParrentString}} ==> {{numberInt}}</p>
+
+<p>Show Number From Child Component ==> {{numberFromChidInt}}</p>
+
 <button (click)="onClickCount()">Count on Parrent</button>
 
 <hr/>
 
 <!--Child Component-->
 <app-child [receiveFromParrent]="nameChildString"
-           [receiveNumber]="numberInt"></app-child>
+           [receiveNumber]="numberInt"
+           (eventChangeNumberByChild)="onChangeNumberByChild($event)">
+
+</app-child>
